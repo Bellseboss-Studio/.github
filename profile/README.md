@@ -1,12 +1,13 @@
-## Hi there 👋
+# Bellseboss Studio
 
-<!--
+Bienvenido a **Bellseboss Studio**, un grupo de entusiastas que crean videojuegos como hobby. Nuestro objetivo es aprender, expandir y practicar conocimientos sobre desarrollo de videojuegos.
 
-**Here are some ideas to get you started:**
+## 📌 Sobre nosotros
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🎮 Desarrollamos videojuegos por diversión y aprendizaje.
+- 🌐 Visita nuestra página web: [bellseboss.com](https://www.bellseboss.com/)
+- 🕹️ Explora nuestros juegos publicados en [itch.io](https://bellseboss.itch.io/)
+- 💬 Únete a nuestra comunidad en Discord.
+  - Para obtener una invitación, envía un mensaje a **PeryLoth** en Discord.
+
+¡Gracias por visitarnos y apoyar nuestro trabajo! 🚀
